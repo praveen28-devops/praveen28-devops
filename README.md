@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen28-devops" alt="praveen28-devops" /></a> </p>
 
-- 🔭 I’m currently working on **Building secure cloud solution using AWS services**
+🛠 Building secure cloud solutions using AWS (EC2, S3, IAM)
 
-- 🌱 I’m currently learning **Advanced AWS services (like Lambda, Step Functions, EventBridge) and Kubernetes and container orchestration**
+🌱 Learning advanced AWS services: Lambda, Step Functions, EventBridge
 
-- 👯 I’m looking to collaborate on **open-source projects related to cloud security, DevOps automation, and infrastructure as code(Iac)**
+🤝 Open to collaboration on DevOps automation & infrastructure-as-code projects
 
-- 🤝 I’m looking for help with **Building scalable CI/CD pipelines**
-
-- 💬 Ask me about **AWS (EC2, S3, IAM, CloudFormation, etc.) DevOps best practices Securing cloud applications**
-
-- 📫 How to reach me **praveen.dev.cloud.gmail.com**
+⚡ Available for building scalable CI/CD pipelines
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
