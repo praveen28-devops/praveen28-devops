@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/21a854b4858cf3cf6549213d8a750302f74e517f39df4a77474229112887a6c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" />
 </h1>
 
-<h2 align="center">Hi there, I'm <strong>Pravz</strong> 👋</h2>
+<h2 align="center">Hi there, I'm <strong>Praveen</strong> 👋</h2>
 <h3 align="center">DevOps & Cloud Engineer | Automating the Future, One Pipeline at a Time</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 I’m a **B.Tech Information Technology** student at **K.S.Rangasamy College of Technology**, and a **DevOps & Cloud Engineer** by passion.  
-I love building cloud-native systems that are scalable, automated, and production-ready.
+I love building cloud-native systems that are **scalable**, **automated**, and **self-healing**.
 
 - ☁️ Skilled in **AWS**, **Oracle Cloud (OCI)**, and **multi-cloud environments**  
 - ⚙️ Specialized in **Infrastructure as Code (IaC)** using **Terraform**  
@@ -29,8 +29,8 @@ I love building cloud-native systems that are scalable, automated, and productio
 ---
 
 ### 🏆 Certifications
-- 🥇 **Oracle Certified Professional: OCI 2025 DevOps Professional**  
-- ☁️ **AWS Certified Database – Specialty**  
+- 🥇 **Oracle Certified Professional: OCI 2025 DevOps Professional**    
+- 🧱 **Oracle Database @ AWS Certified Architect Professional**  
 *(Badges available on Credly/Acclaim)*
 
 ---
@@ -43,23 +43,22 @@ I love building cloud-native systems that are scalable, automated, and productio
 | ⚙️ **DevOps & IaC** | Terraform, Docker, Kubernetes, Jenkins, GitHub Actions |
 | 🗄️ **Databases** | Amazon RDS, DynamoDB, Aurora, Oracle Autonomous DB |
 | 💻 **Languages** | Python, Go (Golang), Bash, SQL |
-| 🤖 **MLOps / AI** | Vertex AI, SageMaker, NLP Pipelines |
+| 🔎 **Observability & Monitoring** | Prometheus, Grafana, Loki, CloudWatch |
 
 ---
 
 ### 🚀 Featured Projects
 
+#### 🛡️ Self-Healing Infrastructure with Chaos Engineering
+A **self-healing cloud infrastructure** project designed using **Kubernetes**, **Prometheus**, **Grafana**, and **LitmusChaos** to simulate real-world system failures and ensure automatic recovery without human intervention.  
+**Focus:** Resilience, Fault Tolerance, and Zero-Touch Automation.  
+**Tech Stack:** `Kubernetes`, `Prometheus`, `Grafana`, `LitmusChaos`, `GoLang`, `Terraform`, `PostgreSQL`
+
+---
+
 #### 🧭 Go-Cloud CLI – Multi-Cloud Management Tool
 A CLI built using **Go (Golang)** to manage **AWS** and **OCI** resources from a single terminal.  
-**Tech Stack:** Go, AWS SDK for Go, OCI SDK, Cobra CLI
-
-#### 🔁 Fully Automated CI/CD Pipeline for Portfolio
-An end-to-end **GitHub Actions** workflow that builds and deploys a static website to **AWS S3 + CloudFront** using **Terraform**.  
-**Tech Stack:** Terraform, GitHub Actions, AWS S3, AWS CloudFront
-
-#### 🤖 MLOps Pipeline for NLP Model
-Containerized an NLP model with **Docker**, provisioned **AWS infra** via **Terraform**, and deployed it on **EKS**.  
-**Tech Stack:** Python, Docker, Terraform, Kubernetes (EKS)
+**Tech Stack:** `Go`, `AWS SDK for Go`, `OCI SDK`, `Cobra CLI`
 
 ---
 
@@ -95,4 +94,4 @@ Containerized an NLP model with **Docker**, provisioned **AWS infra** via **Terr
 
 ---
 
-<h4 align="center">🚀 "Automate. Deploy. Scale. Repeat." 🌩️</h4>
+<h4 align="center">🚀 "Automate. Deploy. Heal. Scale." 🌩️</h4>
