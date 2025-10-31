@@ -31,7 +31,7 @@ I love building cloud-native systems that are **scalable**, **automated**, and *
 ### 🏆 Certifications
 - 🥇 **Oracle Certified Professional: OCI 2025 DevOps Professional**    
 - 🧱 **Oracle Database @ AWS Certified Architect Professional**  
-*(Badges available on Credly/Acclaim)*
+*(Badges available on Credly)*
 
 ---
 
