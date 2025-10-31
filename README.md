@@ -56,9 +56,11 @@ A **self-healing cloud infrastructure** project designed using **Kubernetes**, *
 
 ---
 
-#### 🧭 Go-Cloud CLI – Multi-Cloud Management Tool
-A CLI built using **Go (Golang)** to manage **AWS** and **OCI** resources from a single terminal.  
-**Tech Stack:** `Go`, `AWS SDK for Go`, `OCI SDK`, `Cobra CLI`
+⚡ AWS Fully Serverless Architecture with CI/CD
+
+Deployed a serverless API using AWS Lambda, API Gateway, and Aurora Serverless, automated with Terraform and GitHub Actions for a fully event-driven CI/CD pipeline.
+
+Tech Stack: AWS Lambda, API Gateway, Aurora Serverless, S3, Terraform, GitHub Actions
 
 ---
 
