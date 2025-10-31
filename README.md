@@ -39,11 +39,11 @@ I love building cloud-native systems that are **scalable**, **automated**, and *
 
 | Category | Technologies |
 | :-- | :-- |
-| ☁️ **Cloud Platforms** | AWS, Oracle Cloud (OCI), Google Cloud (GCP) |
-| ⚙️ **DevOps & IaC** | Terraform, Docker, Kubernetes, Jenkins, GitHub Actions |
-| 🗄️ **Databases** | Amazon RDS, DynamoDB, Aurora, Oracle Autonomous DB |
+| ☁️ **Cloud Platforms** | AWS, Azure, Oracle Cloud (OCI), Google Cloud (GCP) |
+| ⚙️ **DevOps & IaC** | Terraform, Docker, Kubernetes, GitHub Actions |
+| 🗄️ **Databases** | Amazon RDS, DynamoDB, |
 | 💻 **Languages** | Python, Go (Golang), Bash, SQL |
-| 🔎 **Observability & Monitoring** | Prometheus, Grafana, Loki, CloudWatch |
+| 🔎 **Observability & Monitoring** | Prometheus, Grafana, CloudWatch |
 
 ---
 
